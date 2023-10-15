@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 class Swap_logic
 {
     int a, b;
